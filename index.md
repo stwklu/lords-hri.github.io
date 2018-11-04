@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<title>Low-shot Object Recognition, Detection and Segmentation using HRI</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
 	<body>
 		<nav>
