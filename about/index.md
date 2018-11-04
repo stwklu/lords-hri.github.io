@@ -5,7 +5,7 @@ title: About LORD-HRI
 
 		<div class="about">
 			<h1>About</h1>
-			<p> Can insert a brief intro here.</p>
+			<p>can insert a brief intro here</p>
 
 			<ul class="contacts">
 				<li><a href="#">@TwitterHandle</a></li>
